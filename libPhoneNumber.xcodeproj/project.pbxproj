@@ -799,10 +799,11 @@
 			};
 			buildConfigurationList = FD7A0616167715A0004BBEB6 /* Build configuration list for PBXProject "libPhoneNumber" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				Base,
+				en,
 			);
 			mainGroup = FD7A0611167715A0004BBEB6;
 			productRefGroup = FD7A061D167715A0004BBEB6 /* Products */;

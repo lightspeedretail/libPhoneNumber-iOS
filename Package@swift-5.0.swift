@@ -20,8 +20,7 @@ let package = Package(
         .target(
             name: "libPhoneNumber",
             path: "libPhoneNumber",
-            exclude: ["GeneratePhoneNumberHeader.sh", "Info.plist"],
-            publicHeadersPath: ".",
+            exclude: ["Info.plist"],
             cSettings: [
                 .headerSearchPath("Internal")
             ],

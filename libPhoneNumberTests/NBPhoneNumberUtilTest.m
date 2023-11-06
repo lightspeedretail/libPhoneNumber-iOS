@@ -6,13 +6,7 @@
 
 #import <XCTest/XCTest.h>
 
-#import "NBMetadataHelper.h"
-#import "NBPhoneMetaData.h"
-
-#import "NBNumberFormat.h"
-#import "NBPhoneNumber.h"
-#import "NBPhoneNumberDesc.h"
-#import "NBPhoneNumberUtil.h"
+@import libPhoneNumber;
 
 #import "NBTestingMetaData.h"
 

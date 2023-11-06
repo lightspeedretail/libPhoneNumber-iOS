@@ -6,11 +6,10 @@
 //
 
 #import <XCTest/XCTest.h>
-#import "NBAsYouTypeFormatter.h"
-#import "NBMetadataHelper.h"
-#import "NBPhoneNumberUtil.h"
 
 #import "NBTestingMetaData.h"
+
+@import libPhoneNumber;
 
 @interface NBAsYouTypeFormatterTest : XCTestCase
 @end

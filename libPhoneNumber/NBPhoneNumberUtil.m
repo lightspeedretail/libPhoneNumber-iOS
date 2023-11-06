@@ -6,14 +6,14 @@
 //  Copyright (c) 2015년 ohtalk.me. All rights reserved.
 //
 
-#import "NBPhoneNumberUtil.h"
+#import <libPhoneNumber/NBPhoneNumberUtil.h>
 #import <math.h>
-#import "NBMetadataHelper.h"
-#import "NBNumberFormat.h"
-#import "NBPhoneMetaData.h"
-#import "NBPhoneNumber.h"
-#import "NBPhoneNumberDefines.h"
-#import "NBPhoneNumberDesc.h"
+#import <libPhoneNumber/NBMetadataHelper.h>
+#import <libPhoneNumber/NBNumberFormat.h>
+#import <libPhoneNumber/NBPhoneMetaData.h>
+#import <libPhoneNumber/NBPhoneNumber.h>
+#import <libPhoneNumber/NBPhoneNumberDefines.h>
+#import <libPhoneNumber/NBPhoneNumberDesc.h>
 #import "NBRegExMatcher.h"
 
 #if __has_include(<Contacts/Contacts.h>)

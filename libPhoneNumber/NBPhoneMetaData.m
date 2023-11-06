@@ -4,10 +4,10 @@
 //
 //
 
-#import "NBPhoneMetaData.h"
-#import "NBNumberFormat.h"
-#import "NBPhoneNumberDesc.h"
-#import "NSArray+NBAdditions.h"
+#import <libPhoneNumber/NBPhoneMetaData.h>
+#import <libPhoneNumber/NBNumberFormat.h>
+#import <libPhoneNumber/NBPhoneNumberDesc.h>
+#import <libPhoneNumber/NSArray+NBAdditions.h>
 
 @implementation NBPhoneMetaData
 

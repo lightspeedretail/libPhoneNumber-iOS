@@ -5,15 +5,15 @@
 //  Created by ishtar on 13. 2. 25..
 //
 
-#import "NBAsYouTypeFormatter.h"
-#import "NBPhoneNumberDefines.h"
+#import <libPhoneNumber/NBAsYouTypeFormatter.h>
+#import <libPhoneNumber/NBPhoneNumberDefines.h>
 
-#import "NBMetadataHelper.h"
+#import <libPhoneNumber/NBMetadataHelper.h>
 
-#import "NBNumberFormat.h"
-#import "NBPhoneMetaData.h"
-#import "NBPhoneNumberUtil.h"
-#import "NSArray+NBAdditions.h"
+#import <libPhoneNumber/NBNumberFormat.h>
+#import <libPhoneNumber/NBPhoneMetaData.h>
+#import <libPhoneNumber/NBPhoneNumberUtil.h>
+#import <libPhoneNumber/NSArray+NBAdditions.h>
 
 /**
  * The digits that have not been entered yet will be represented by a \u2008,

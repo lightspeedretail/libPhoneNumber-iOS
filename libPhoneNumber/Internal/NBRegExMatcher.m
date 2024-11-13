@@ -7,9 +7,9 @@
 //
 
 #import "NBRegExMatcher.h"
-#import <libPhoneNumber/NBPhoneNumberDesc.h>
+#import "libPhoneNumberiOS/NBPhoneNumberDesc.h"
 #import "NBRegularExpressionCache.h"
-#import <libPhoneNumber/NBPhoneNumberUtil.h>
+#import "libPhoneNumberiOS/NBPhoneNumberUtil.h"
 
 // Expose this method to get a modified RegEx to cover the entire RegEx.
 // Though all RegEx methods and functionalities should be moved to either this class, or a separate

@@ -4,8 +4,8 @@
 //
 //
 
-#import <libPhoneNumber/NBPhoneNumberDesc.h>
-#import <libPhoneNumber/NSArray+NBAdditions.h>
+#import "NBPhoneNumberDesc.h"
+#import "NSArray+NBAdditions.h"
 
 @implementation NBPhoneNumberDesc
 

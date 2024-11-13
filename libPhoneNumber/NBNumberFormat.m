@@ -4,8 +4,8 @@
 //
 //
 
-#import <libPhoneNumber/NBNumberFormat.h>
-#import <libPhoneNumber/NSArray+NBAdditions.h>
+#import "NBNumberFormat.h"
+#import "NSArray+NBAdditions.h"
 
 @implementation NBNumberFormat
 

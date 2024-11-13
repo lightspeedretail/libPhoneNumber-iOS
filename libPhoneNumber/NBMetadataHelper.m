@@ -6,9 +6,9 @@
 //  Copyright (c) 2015년 ohtalk.me. All rights reserved.
 //
 
-#import <libPhoneNumber/NBMetadataHelper.h>
+#import "NBMetadataHelper.h"
 #import "NBGeneratedPhoneNumberMetaData.h"
-#import <libPhoneNumber/NBPhoneMetaData.h>
+#import "NBPhoneMetaData.h"
 
 @interface NBMetadataHelper ()
 

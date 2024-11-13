@@ -6,7 +6,7 @@
 //  Copyright © 2017 ohtalk.me. All rights reserved.
 //
 
-#import <libPhoneNumber/NSArray+NBAdditions.h>
+#import "NSArray+NBAdditions.h"
 
 @implementation NSArray (NBAdditions)
 
